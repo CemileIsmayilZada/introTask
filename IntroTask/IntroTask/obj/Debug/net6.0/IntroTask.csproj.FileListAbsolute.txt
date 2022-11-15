@@ -1,0 +1,15 @@
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.exe
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.deps.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.runtimeconfig.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.csproj.AssemblyReference.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.AssemblyInfoInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.AssemblyInfo.cs
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\refint\IntroTask.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.genruntimeconfig.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\C#Intro\IntroTask\IntroTask\obj\Debug\net6.0\ref\IntroTask.dll
