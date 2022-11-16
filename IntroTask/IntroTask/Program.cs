@@ -36,7 +36,7 @@ Boolean check = false;
 string longWord;
 string shortWord;
 
-if(word1.Length > word2.Length)
+if (word1.Length > word2.Length)
 {
     longWord = word1;
     shortWord = word2;
@@ -46,25 +46,41 @@ else
     longWord = word2;
     shortWord = word1;
 }
+string findedWord="#";
+for (int i = 0; i < longWord.Length; i++)
+{
 
-for(int i = 0; i < longWord.Length; i++)
-{
-    for(int j=0; j<shortWord.Length; j++)
-    {
-        if (longWord[i] == shortWord[j])
+
+        for (int j = 0; j < shortWord.Length; j++)
+
         {
-            check = true;
+
+        if (longWord[i] == shortWord[0]&&(i+j<longWord.Length)) // alam  mdf 
+        {
+            if ((longWord[i + j] == shortWord[j]))
+            {
+
+                if (j == shortWord.Length - 1) { check = true; }
+              
+            }
         }
-            
+        else
+        {
+            break;
+        }
+
+        }
     }
-}
-if (check = false)
+       
+  
+
+if ((check == true))
 {
-    Console.WriteLine("doesnt exist");
+    Console.WriteLine("exist");
 }
 else
 {
-    Console.WriteLine("exist");
+    Console.WriteLine("doesnt exist");
 }
 
 
