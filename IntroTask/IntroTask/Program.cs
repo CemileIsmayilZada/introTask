@@ -46,7 +46,7 @@ else
     longWord = word2;
     shortWord = word1;
 }
-string findedWord="#";
+
 for (int i = 0; i < longWord.Length; i++)
 {
 
